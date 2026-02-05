@@ -30,7 +30,7 @@ const App = () => {
         </>
       ) : (
         <>
-          <nav className="fixed top-0 w-full bg-darker/80 backdrop-blur-md z-50 border-b border-gray-800 p-4">
+          {/* <nav className="fixed top-0 w-full bg-darker/80 backdrop-blur-md z-50 border-b border-gray-800 p-4">
             <div className="container mx-auto flex justify-between items-center">
               <span className="text-2xl font-bold text-primary cursor-pointer" onClick={() => setView('portfolio')}>PB.</span>
               <button
@@ -43,7 +43,7 @@ const App = () => {
           </nav>
           <div className="pt-20">
             <Resume />
-          </div>
+          </div> */}
         </>
       )}
     </div>
