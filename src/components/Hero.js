@@ -10,8 +10,8 @@ const Hero = () => {
   };
 
   // Replace these with your actual links if they differ
-  const linkedInUrl = "https://www.linkedin.com/in/mamthagowda/";
-  const emailAddress = "mailto:mamthagowda@gmail.com";
+  const linkedInUrl = "https://www.linkedin.com/in/mamtha-g-b8770495/";
+  const emailAddress = "mailto:mamthasn@gmail.com";
 
   return (
     <section className="relative min-h-screen flex items-center justify-center overflow-hidden pt-20 bg-[#050505]" id="hero">

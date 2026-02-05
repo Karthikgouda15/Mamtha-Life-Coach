@@ -21,7 +21,7 @@ const Services = () => {
       duration: "3-6 Months",
       category: "one-on-one",
       isFeatured: true,
-      cta: "mailto:mamthagowda@gmail.com",
+      cta: "mailto:mamthasn@gmail.com",
       outcomes: [
         "Overcoming Imposter Syndrome",
         "Clarity on Life Purpose",
@@ -38,7 +38,7 @@ const Services = () => {
       duration: "8 Weeks",
       category: "career",
       isFeatured: false,
-      cta: "mailto:mamthagowda@gmail.com",
+      cta: "mailto:mamthasn@gmail.com",
       outcomes: [
         "Executive Presence Coaching",
         "Strategic Career Pivot Roadmap",
@@ -54,7 +54,7 @@ const Services = () => {
       duration: "Group Sessions",
       category: "workshops",
       isFeatured: false,
-      cta: "mailto:mamthagowda@gmail.com",
+      cta: "mailto:mamthasn@gmail.com",
       outcomes: [
         "Stress Management Tools",
         "Boundary Setting Techniques",

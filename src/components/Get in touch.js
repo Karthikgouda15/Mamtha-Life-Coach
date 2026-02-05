@@ -47,15 +47,15 @@ const Contact = () => {
     {
       icon: Mail,
       title: "Direct Email",
-      value: "hello@mamthagowda.com",
-      link: "mailto:hello@mamthagowda.com",
+      value: "mamthasn@gmail.com",
+      link: "mailto:mamthasn@gmail.com",
       color: "text-orange-500"
     },
     {
       icon: Linkedin,
       title: "LinkedIn Community",
       value: "Mamtha Gowda G S",
-      link: "https://www.linkedin.com/in/mamthagowda-gs/",
+      link: "https://www.linkedin.com/in/mamtha-g-b8770495/",
       color: "text-blue-500"
     },
     {
