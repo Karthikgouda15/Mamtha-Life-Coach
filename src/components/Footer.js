@@ -16,17 +16,17 @@ const Footer = () => {
   const socialLinks = [
     {
       icon: Linkedin,
-      href: "https://www.linkedin.com/in/mamthagowda-gs/",
+      href: "https://www.linkedin.com/in/mamtha-g-b8770495/",
       label: "LinkedIn"
     },
     {
       icon: Instagram,
-      href: "#", // Add your Instagram link here
+      href:  "https://www.instagram.com/mamtha_gouda/",
       label: "Instagram"
     },
     {
       icon: Mail,
-      href: "mailto:your-email@example.com",
+      href: "mailto:mamthasn@gmail.com",
       label: "Email"
     },
     {
