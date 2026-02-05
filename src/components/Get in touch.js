@@ -54,7 +54,7 @@ const Contact = () => {
     {
       icon: Linkedin,
       title: "LinkedIn Community",
-      value: "Mamtha Gowda G S",
+      value: "Mamtha Gouda G S",
       link: "https://www.linkedin.com/in/mamtha-g-b8770495/",
       color: "text-blue-500"
     },

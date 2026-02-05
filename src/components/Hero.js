@@ -43,7 +43,7 @@ const Hero = () => {
             <motion.h1
               className="text-5xl md:text-8xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-white via-gray-100 to-gray-400 mb-6 tracking-tighter leading-[1.1]"
             >
-              Mamtha <br /> Gowda G S
+              Mamtha <br /> Gouda G S
             </motion.h1>
 
             <motion.div className="text-2xl md:text-4xl text-gray-300 font-light mb-8 h-12">
@@ -106,7 +106,7 @@ const Hero = () => {
               <div className="relative w-72 h-72 md:w-[380px] md:h-[380px] rounded-full overflow-hidden border-2 border-white/10 shadow-[0_0_50px_rgba(249,115,22,0.2)] z-10 group">
                 <img
                   src="/images/Mamtha.jpeg" 
-                  alt="Mamtha Gowda"
+                  alt="Mamtha Gouda"
                   className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"
                 />
               </div>
@@ -142,7 +142,7 @@ const Hero = () => {
           className="absolute bottom-10 left-1/2 -translate-x-1/2 cursor-pointer flex flex-col items-center gap-2 text-gray-500"
           onClick={scrollToAbout}
         >
-          <span className="text-[10px] uppercase tracking-[0.3em] font-bold">Discover</span>
+          {/* <span className="text-[10px] uppercase tracking-[0.3em] font-bold">Discover</span> */}
           <motion.div animate={{ y: [0, 8, 0] }} transition={{ duration: 2, repeat: Infinity }}><ArrowDown size={20} /></motion.div>
         </motion.div>
       </div>

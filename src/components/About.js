@@ -41,7 +41,7 @@ const About = () => {
         >
           <span className="text-orange-500 font-bold uppercase tracking-[0.3em] text-xs mb-4 block">The Architect of Growth</span>
           <h2 className="text-4xl md:text-6xl font-serif font-bold text-white mb-6">
-            Meet <span className="text-orange-500">Mamtha Gowda G S</span>
+            Meet <span className="text-orange-500">Mamtha Gouda G S</span>
           </h2>
           <p className="text-gray-400 max-w-3xl mx-auto text-lg md:text-xl font-light leading-relaxed">
             Data Engineer by profession, Life Coach by passion. I combine the 

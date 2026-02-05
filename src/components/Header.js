@@ -49,7 +49,7 @@ const Header = () => {
             whileHover={{ scale: 1.02 }}
           >
             <span className="text-xl md:text-2xl font-serif font-bold text-white tracking-tight">
-              Mamtha Gowda
+              Mamtha Gouda
             </span>
             <span className="text-[10px] uppercase tracking-[0.3em] text-orange-500 font-bold">
               Life Coach

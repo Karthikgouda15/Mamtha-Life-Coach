@@ -1,4 +1,4 @@
-Mamtha Gowda G S – Life Coach Portfolio
+Mamtha Gouda G S – Life Coach Portfolio
 
 🚀 Key Offerings
 	•	Personalized Coaching – Tailored strategies for career growth, motivation, and life balance.

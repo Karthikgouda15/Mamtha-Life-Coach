@@ -54,7 +54,7 @@ const Footer = () => {
           >
             <div className="flex flex-col mb-6">
               <span className="text-2xl font-serif font-bold text-white tracking-tight">
-                Mamtha Gowda G S
+                Mamtha Gouda G S
               </span>
               <span className="text-[10px] uppercase tracking-[0.3em] text-orange-500 font-bold">
                 Life Coach • Instructor • Data Engineer
@@ -130,7 +130,7 @@ const Footer = () => {
           viewport={{ once: true }}
         >
           <div className="flex items-center gap-1.5 font-light">
-            <p>© {currentYear} Mamtha Gowda G S.</p>
+            <p>© {currentYear} Mamtha Gouda G S.</p>
             <p className="text-gray-600 ml-2">Dedicated to your</p>
             <Heart size={14} className="text-orange-500 fill-orange-500" />
             <p>transformation.</p>

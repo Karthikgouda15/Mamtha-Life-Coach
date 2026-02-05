@@ -101,7 +101,7 @@ const Philosophy = () => {
           </p>
           <div className="h-px w-24 bg-orange-500 mx-auto" />
           <span className="mt-4 block text-sm uppercase tracking-widest text-orange-500 font-bold">
-            Mamtha Gowda G S
+            Mamtha Gouda G S
           </span>
         </motion.div>
       </div>
