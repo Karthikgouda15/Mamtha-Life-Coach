@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { Menu, X, Sparkles, MessageCircle, Heart, User, Send, Compass } from 'lucide-react';
+import { Menu, X, Sparkles, Heart, User, Send, Compass } from 'lucide-react';
 
 const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);

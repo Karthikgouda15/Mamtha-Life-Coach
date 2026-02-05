@@ -1,7 +1,7 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import { useInView } from 'react-intersection-observer';
-import { Database, Lightbulb, Compass, Users, Heart, Brain } from 'lucide-react';
+import { Database, Lightbulb, Heart, Brain } from 'lucide-react';
 
 const About = () => {
   const [ref, inView] = useInView({

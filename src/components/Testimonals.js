@@ -1,7 +1,7 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import { useInView } from 'react-intersection-observer';
-import { Quote, Star, UserCheck, Sparkles } from 'lucide-react';
+import { Quote, Star, Sparkles } from 'lucide-react';
 
 const Testimonials = () => {
   const [ref, inView] = useInView({

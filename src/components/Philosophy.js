@@ -1,7 +1,7 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import { useInView } from 'react-intersection-observer';
-import { Anchor, Sun, Zap, Feather, ShieldCheck, RefreshCw } from 'lucide-react';
+import { Sun, Zap, Feather, ShieldCheck, RefreshCw } from 'lucide-react';
 
 const Philosophy = () => {
   const [ref, inView] = useInView({

@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { useInView } from "react-intersection-observer";
-import { Calendar, CheckCircle2, Heart, Sparkles, Star } from "lucide-react";
+import { Calendar, CheckCircle2, Sparkles, Star } from "lucide-react";
 
 const Services = () => {
   const [ref, inView] = useInView({
